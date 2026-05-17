@@ -79,4 +79,4 @@ Both models successfully learned to classify the digits. However, the CNN signif
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
+   git clone https://github.com/AMRDISTA-01/MNIST-Classification-PyTorch
